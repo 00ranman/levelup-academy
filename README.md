@@ -1,5 +1,12 @@
 # LevelUp Academy - Adaptive Learning Platform
 
+> **Ecosystem Note:** This is the standalone Python service. It has not yet been
+> ported to the [extropy-engine](https://github.com/00ranman/extropy-engine) monorepo.
+> Skills/credentials overlap with `packages/credentials` (port 4013). XP tracking
+> uses `packages/xp-mint` (port 4005).
+> See [ECOSYSTEM_MAP.md](https://github.com/00ranman/extropy-engine/blob/main/ECOSYSTEM_MAP.md)
+> for the full repository mapping.
+
 An intelligent educational platform integrated with the Extropy unified ecosystem, featuring adaptive learning algorithms and physics-based XP tracking.
 
 ## 🎓 Overview
